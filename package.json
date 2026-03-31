@@ -1,0 +1,14 @@
+{
+  "name": "boosting",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "start:local": "node server.js",
+    "start:python": "start-local.cmd"
+  },
+  "dependencies": {
+    "firebase": "^12.11.0"
+  }
+}
+ 
+
